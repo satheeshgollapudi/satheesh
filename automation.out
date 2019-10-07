@@ -1,0 +1,304 @@
+2019-09-07 11:20:22 INFO  TestBase:93 - loading config.properties
+2019-09-07 11:20:22 INFO  TestBase:98 - loading or.properties
+2019-09-07 11:24:40 INFO  TestBase:93 - loading config.properties
+2019-09-07 11:24:40 INFO  TestBase:98 - loading or.properties
+2019-09-07 11:24:59 INFO  TestBase:93 - loading config.properties
+2019-09-07 11:24:59 INFO  TestBase:98 - loading or.properties
+2019-09-07 11:25:17 INFO  TestBase:93 - loading config.properties
+2019-09-07 11:25:17 INFO  TestBase:98 - loading or.properties
+2019-09-08 10:26:30 INFO  TestBase:109 - loading config.properties
+2019-09-08 10:26:30 INFO  TestBase:114 - loading or.properties
+2019-09-08 10:27:23 INFO  WaitHelper:31 - 20
+2019-09-08 10:27:23 INFO  WaitHelper:36 - 240
+2019-09-08 10:27:23 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-08 10:27:39 INFO  WaitHelper:60 - element found...Sign in
+2019-09-08 10:27:39 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-08 10:27:43 INFO  LoginPage:61 - entering email address....learnbybhanu@gmail.com
+2019-09-08 10:27:44 INFO  LoginPage:66 - entering password....welcome
+2019-09-08 10:27:46 INFO  LoginPage:71 - clicking on submit button...
+2019-09-08 10:36:11 INFO  TestBase:109 - loading config.properties
+2019-09-08 10:36:11 INFO  TestBase:114 - loading or.properties
+2019-09-08 10:36:21 INFO  WaitHelper:31 - 20
+2019-09-08 10:36:22 INFO  WaitHelper:36 - 240
+2019-09-08 10:36:22 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-08 10:36:32 INFO  WaitHelper:60 - element found...Sign in
+2019-09-08 10:36:32 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-08 10:36:34 INFO  LoginPage:61 - entering email address....learnbybhanu@gmail.com
+2019-09-08 10:36:34 INFO  LoginPage:66 - entering password....welcome
+2019-09-08 10:36:35 INFO  LoginPage:71 - clicking on submit button...
+2019-09-08 10:36:36 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-08 10:38:05 INFO  TestBase:109 - loading config.properties
+2019-09-08 10:38:05 INFO  TestBase:114 - loading or.properties
+2019-09-08 10:38:12 INFO  WaitHelper:31 - 20
+2019-09-08 10:38:12 INFO  WaitHelper:36 - 240
+2019-09-08 10:38:12 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-08 10:38:28 INFO  WaitHelper:60 - element found...Sign in
+2019-09-08 10:38:28 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-08 10:38:30 INFO  LoginPage:61 - entering email address....learnbybhanu@gmail.com
+2019-09-08 10:38:31 INFO  LoginPage:66 - entering password....welcome
+2019-09-08 10:38:31 INFO  LoginPage:71 - clicking on submit button...
+2019-09-08 10:38:33 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-08 11:23:41 INFO  TestBase:109 - loading config.properties
+2019-09-08 11:23:41 INFO  TestBase:114 - loading or.properties
+2019-09-08 11:24:10 INFO  WaitHelper:31 - 20
+2019-09-08 11:24:10 INFO  WaitHelper:36 - 240
+2019-09-08 11:24:11 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-08 11:24:22 INFO  WaitHelper:60 - element found...Sign in
+2019-09-08 11:24:22 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-08 11:24:24 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-09-08 11:24:25 INFO  LoginPage:66 - entering password....varshita05
+2019-09-08 11:24:26 INFO  LoginPage:71 - clicking on submit button...
+2019-09-08 11:24:29 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-08 15:59:16 INFO  TestBase:109 - loading config.properties
+2019-09-08 15:59:16 INFO  TestBase:114 - loading or.properties
+2019-09-08 15:59:38 INFO  WaitHelper:31 - 20
+2019-09-08 15:59:38 INFO  WaitHelper:36 - 240
+2019-09-08 15:59:38 INFO  Registration:25 - com.seleniumFramework.registration.Registration started
+2019-09-08 15:59:57 INFO  WaitHelper:60 - element found...Sign in
+2019-09-08 15:59:57 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-08 16:00:00 INFO  LoginPage:83 - entering registration email..1567922400859@gmail.com
+2019-09-08 16:00:03 INFO  WaitHelper:60 - element found...
+2019-09-08 16:00:03 INFO  WaitHelper:60 - element found...
+2019-09-08 16:00:03 INFO  RegistrationPage:102 - selecting mr checkbox..
+2019-09-08 16:00:03 INFO  RegistrationPage:112 - entering firstName..firstName
+2019-09-08 16:00:04 INFO  RegistrationPage:117 - entering lastname..lastname
+2019-09-08 16:00:04 INFO  RegistrationPage:127 - entering password..password
+2019-09-08 16:00:04 INFO  RegistrationPage:190 - entering address..address
+2019-09-08 16:00:07 INFO  RegistrationPage:175 - entering yourAddressFirstName..yourAddressFirstName
+2019-09-08 16:00:07 INFO  RegistrationPage:180 - entering yourAddressLastName..yourAddressLastName
+2019-09-08 16:00:07 INFO  RegistrationPage:185 - entering yourAddressCompany..yourAddressCompany
+2019-09-08 16:00:08 INFO  RegistrationPage:200 - entering yourAddressCity..yourAddressCity
+2019-09-08 16:00:08 INFO  RegistrationPage:205 - entering yourAddressState..Alaska
+2019-09-08 16:00:08 INFO  RegistrationPage:210 - entering yourAddressPostCode..99501
+2019-09-08 16:00:09 INFO  RegistrationPage:225 - entering mobilePhone..9999999999
+2019-09-08 16:00:09 INFO  RegistrationPage:230 - entering addressAlias..addressAlias
+2019-09-08 16:00:09 INFO  RegistrationPage:235 - clicked on registration..[[ChromeDriver: chrome on XP (11986553c9e23ef87c6cc19ec0c87f08)] -> xpath: //*[@id='submitAccount']]
+2019-09-08 17:02:27 INFO  TestBase:109 - loading config.properties
+2019-09-08 17:02:27 INFO  TestBase:114 - loading or.properties
+2019-09-08 17:02:56 INFO  WaitHelper:31 - 20
+2019-09-08 17:02:56 INFO  WaitHelper:36 - 240
+2019-09-08 17:02:57 INFO  VerifyLowestFirstPriceFilter:26 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-08 17:03:07 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-08 17:03:07 INFO  HomePage:61 - clickin on : WOMEN
+2019-09-08 17:03:12 INFO  WaitHelper:60 - element found...CATALOG
+2019-09-08 17:03:12 INFO  DropDownHelper:47 - Locator : [[ChromeDriver: chrome on XP (647eb772e08d79c9db30a7a66121dfc7)] -> xpath: //*[@id='selectProductSort']] Value : Price: Lowest first
+2019-09-08 17:08:28 INFO  TestBase:109 - loading config.properties
+2019-09-08 17:08:28 INFO  TestBase:114 - loading or.properties
+2019-09-08 17:08:33 INFO  WaitHelper:31 - 20
+2019-09-08 17:08:33 INFO  WaitHelper:36 - 240
+2019-09-08 17:08:33 INFO  VerifyProductCounts:24 - com.seleniumFramework.productDetailsPage.VerifyProductCounts started
+2019-09-08 17:08:47 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-08 17:08:47 INFO  HomePage:61 - clickin on : WOMEN
+2019-09-08 17:08:51 INFO  WaitHelper:60 - element found...CATALOG
+2019-09-21 11:29:51 INFO  ExcelReader:21 - Creating excel object:-/Users/bsingh5/git/seleniumHybridFramework/hybridFramework/src/main/java/com/hybridFramework/data/TestData.xlsx
+2019-09-21 11:33:24 INFO  ExcelReader:21 - Creating excel object:-/Users/bsingh5/git/seleniumHybridFramework/hybridFramework/src/main/java/com/seleniumFramework/data/TestData.xlsx
+2019-09-21 11:33:57 INFO  ExcelReader:21 - Creating excel object:-/Users/bsingh5/git/seleniumHybridFramework/hybridFramework/src/main/java/com/seleniumFramework/data/TestData.xlsx
+2019-09-21 11:35:58 INFO  ExcelReader:21 - Creating excel object:- C://Users/Home/workspace/seleniumHybridFrameorkSatheesh/src/main/java/com/seleniumFramework/data/TestData.xlsx
+2019-09-21 11:38:51 INFO  ExcelReader:21 - Creating excel object:-C://Users/Home/workspace/seleniumHybridFrameorkSatheesh/src/main/java/com/seleniumFramework/data/TestData.xlsx
+2019-09-21 12:07:56 INFO  TestBase:111 - loading config.properties
+2019-09-21 12:07:56 INFO  TestBase:116 - loading or.properties
+2019-09-21 12:08:26 INFO  WaitHelper:31 - 20
+2019-09-21 12:08:26 INFO  WaitHelper:36 - 240
+2019-09-21 12:08:26 INFO  ExcelReader:21 - Creating excel object:-C:\Users\Home\workspace\seleniumHybridFrameorkSatheesh/src/main/java/com/hybridFramework/data/TestData.xlsx
+2019-09-21 12:10:27 INFO  TestBase:111 - loading config.properties
+2019-09-21 12:10:27 INFO  TestBase:116 - loading or.properties
+2019-09-21 12:10:31 INFO  WaitHelper:31 - 20
+2019-09-21 12:10:31 INFO  WaitHelper:36 - 240
+2019-09-21 12:10:31 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-21 12:10:40 INFO  WaitHelper:60 - element found...Sign in
+2019-09-21 12:10:40 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-21 12:10:43 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-09-21 12:10:43 INFO  LoginPage:66 - entering password....varshita05
+2019-09-21 12:10:43 INFO  LoginPage:71 - clicking on submit button...
+2019-09-21 12:10:45 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-21 12:11:37 INFO  TestBase:111 - loading config.properties
+2019-09-21 12:11:37 INFO  TestBase:116 - loading or.properties
+2019-09-21 12:11:41 INFO  WaitHelper:31 - 20
+2019-09-21 12:11:41 INFO  WaitHelper:36 - 240
+2019-09-21 12:11:41 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-21 12:11:51 INFO  WaitHelper:60 - element found...Sign in
+2019-09-21 12:11:51 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-21 12:11:53 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-09-21 12:11:53 INFO  LoginPage:66 - entering password....varshita05
+2019-09-21 12:11:54 INFO  LoginPage:71 - clicking on submit button...
+2019-09-21 12:11:56 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-21 12:12:49 INFO  TestBase:111 - loading config.properties
+2019-09-21 12:12:49 INFO  TestBase:116 - loading or.properties
+2019-09-21 12:12:53 INFO  WaitHelper:31 - 20
+2019-09-21 12:12:53 INFO  WaitHelper:36 - 240
+2019-09-21 12:13:01 INFO  WaitHelper:60 - element found...Sign in
+2019-09-21 12:13:01 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-21 12:13:03 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-09-21 12:13:03 INFO  LoginPage:66 - entering password....varshita05
+2019-09-21 12:13:04 INFO  LoginPage:71 - clicking on submit button...
+2019-09-21 12:13:08 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-21 12:19:10 INFO  TestBase:111 - loading config.properties
+2019-09-21 12:19:10 INFO  TestBase:116 - loading or.properties
+2019-09-21 12:19:16 INFO  WaitHelper:31 - 20
+2019-09-21 12:19:16 INFO  WaitHelper:36 - 240
+2019-09-21 12:19:16 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-21 12:19:29 INFO  WaitHelper:60 - element found...Sign in
+2019-09-21 12:19:29 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-21 12:19:31 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-09-21 12:19:32 INFO  LoginPage:66 - entering password....varshita05
+2019-09-21 12:19:32 INFO  LoginPage:71 - clicking on submit button...
+2019-09-21 12:19:35 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-21 12:19:35 INFO  GenericHelper:55 - element is displayed..[[ChromeDriver: chrome on XP (5726c5f1aab9050fe27b2bd845570e47)] -> xpath: //*[@id='center_column']/p]
+2019-09-21 12:19:35 INFO  LoginTest:29 - login is sucessful
+2019-09-21 12:29:32 INFO  TestBase:111 - loading config.properties
+2019-09-21 12:29:32 INFO  TestBase:116 - loading or.properties
+2019-09-21 12:29:36 INFO  WaitHelper:31 - 20
+2019-09-21 12:29:36 INFO  WaitHelper:36 - 240
+2019-09-21 12:29:36 INFO  ExcelReader:21 - Creating excel object:-C:\Users\Home\workspace\seleniumHybridFrameorkSatheesh/src/main/java/com/hybridFramework/data/Login.xlsx
+2019-09-21 12:34:57 INFO  TestBase:111 - loading config.properties
+2019-09-21 12:34:57 INFO  TestBase:116 - loading or.properties
+2019-09-21 12:35:03 INFO  WaitHelper:31 - 20
+2019-09-21 12:35:03 INFO  WaitHelper:36 - 240
+2019-09-21 12:35:03 INFO  ExcelReader:21 - Creating excel object:-C:\Users\Home\workspace\seleniumHybridFrameorkSatheesh/src/main/java/com/seleniumFramework/data/Login.xlsx
+2019-09-21 12:42:49 INFO  TestBase:111 - loading config.properties
+2019-09-21 12:42:49 INFO  TestBase:116 - loading or.properties
+2019-09-21 12:43:09 INFO  WaitHelper:31 - 20
+2019-09-21 12:43:09 INFO  WaitHelper:36 - 240
+2019-09-21 12:43:10 INFO  ExcelReader:21 - Creating excel object:-C:\Users\Home\workspace\seleniumHybridFrameorkSatheesh/src/main/java/com/seleniumFramework/data/Book1.xlsx
+2019-09-21 12:43:21 INFO  LoginTest:25 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-21 12:43:41 INFO  WaitHelper:60 - element found...Sign in
+2019-09-21 12:43:41 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-21 12:43:46 INFO  LoginPage:61 - entering email address....abcd
+2019-09-21 12:43:47 INFO  LoginPage:66 - entering password....abcd
+2019-09-21 12:43:48 INFO  LoginPage:71 - clicking on submit button...
+2019-09-21 12:43:51 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-21 12:44:12 INFO  GenericHelper:58 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='center_column']/p"}
+  (Session info: chrome=76.0.3809.132)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HOME-PC', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65439}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\Home\AppData\Local\Temp\scoped_dir14840_27834}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5b1abde61e39099036d92b09ba35226a
+*** Element info: {Using=xpath, value=//*[@id='center_column']/p}
+2019-09-21 12:44:13 INFO  LoginTest:25 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-21 12:44:16 INFO  WaitHelper:60 - element found...Sign in
+2019-09-21 12:44:16 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-21 12:44:19 INFO  LoginPage:61 - entering email address....efgh
+2019-09-21 12:44:19 INFO  LoginPage:66 - entering password....efgh
+2019-09-21 12:44:19 INFO  LoginPage:71 - clicking on submit button...
+2019-09-21 12:44:20 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-21 12:44:40 INFO  GenericHelper:58 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='center_column']/p"}
+  (Session info: chrome=76.0.3809.132)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HOME-PC', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65439}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\Home\AppData\Local\Temp\scoped_dir14840_27834}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5b1abde61e39099036d92b09ba35226a
+*** Element info: {Using=xpath, value=//*[@id='center_column']/p}
+2019-09-28 11:34:12 INFO  TestBase:111 - loading config.properties
+2019-09-28 11:34:12 INFO  TestBase:116 - loading or.properties
+2019-09-28 11:34:41 INFO  WaitHelper:31 - 20
+2019-09-28 11:34:41 INFO  WaitHelper:36 - 240
+2019-09-28 11:34:41 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-09-28 11:34:54 INFO  WaitHelper:60 - element found...Sign in
+2019-09-28 11:34:54 INFO  LoginPage:56 - clicked on sign in link...
+2019-09-28 11:34:57 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-09-28 11:34:58 INFO  LoginPage:66 - entering password....varshita05
+2019-09-28 11:34:58 INFO  LoginPage:71 - clicking on submit button...
+2019-09-28 11:35:01 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-28 11:35:01 INFO  GenericHelper:55 - element is displayed..[[ChromeDriver: chrome on XP (024212a97e13833aa447a4802301f337)] -> xpath: //*[@id='center_column']/p]
+2019-09-28 11:35:01 INFO  LoginTest:29 - login is sucessful
+2019-09-28 11:35:50 INFO  TestBase:111 - loading config.properties
+2019-09-28 11:35:50 INFO  TestBase:116 - loading or.properties
+2019-09-28 11:36:03 INFO  WaitHelper:31 - 20
+2019-09-28 11:36:03 INFO  WaitHelper:36 - 240
+2019-09-28 11:36:04 INFO  VerifyLowestFirstPriceFilter:26 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-28 11:36:20 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-28 11:36:20 INFO  HomePage:61 - clickin on : WOMEN
+2019-09-28 11:36:24 INFO  WaitHelper:60 - element found...CATALOG
+2019-09-28 11:36:24 INFO  DropDownHelper:47 - Locator : [[ChromeDriver: chrome on XP (8f230d81c12c74e46fe0a199df1e2ce7)] -> xpath: //*[@id='selectProductSort']] Value : Price: Lowest first
+2019-09-28 11:44:53 INFO  TestBase:111 - loading config.properties
+2019-09-28 11:44:53 INFO  TestBase:116 - loading or.properties
+2019-09-28 11:45:01 INFO  WaitHelper:31 - 20
+2019-09-28 11:45:01 INFO  WaitHelper:36 - 240
+2019-09-28 11:45:01 INFO  VerifyLowestFirstPriceFilter:26 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-28 11:45:18 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-28 11:45:18 INFO  HomePage:49 - doing mouse over on :T-shirts
+2019-09-28 11:46:33 INFO  TestBase:111 - loading config.properties
+2019-09-28 11:46:33 INFO  TestBase:116 - loading or.properties
+2019-09-28 11:46:38 INFO  WaitHelper:31 - 20
+2019-09-28 11:46:38 INFO  WaitHelper:36 - 240
+2019-09-28 11:46:38 INFO  VerifyLowestFirstPriceFilter:26 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-28 11:46:49 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-28 11:46:49 INFO  HomePage:49 - doing mouse over on :WOMEN
+2019-09-28 11:48:48 INFO  TestBase:111 - loading config.properties
+2019-09-28 11:48:48 INFO  TestBase:116 - loading or.properties
+2019-09-28 11:48:55 INFO  WaitHelper:31 - 20
+2019-09-28 11:48:55 INFO  WaitHelper:36 - 240
+2019-09-28 11:48:55 INFO  VerifyLowestFirstPriceFilter:26 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-28 11:49:04 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-28 11:49:04 INFO  HomePage:49 - doing mouse over on :Women
+2019-09-28 11:49:49 INFO  TestBase:111 - loading config.properties
+2019-09-28 11:49:49 INFO  TestBase:116 - loading or.properties
+2019-09-28 11:49:53 INFO  WaitHelper:31 - 20
+2019-09-28 11:49:53 INFO  WaitHelper:36 - 240
+2019-09-28 11:49:53 INFO  VerifyLowestFirstPriceFilter:26 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-28 11:50:03 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-28 11:50:03 INFO  HomePage:49 - doing mouse over on :Women
+2019-09-28 11:54:25 INFO  TestBase:111 - loading config.properties
+2019-09-28 11:54:25 INFO  TestBase:116 - loading or.properties
+2019-09-28 11:54:34 INFO  WaitHelper:31 - 20
+2019-09-28 11:54:34 INFO  WaitHelper:36 - 240
+2019-09-28 11:54:34 INFO  VerifyLowestFirstPriceFilter:26 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-28 11:54:51 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-28 12:06:10 INFO  TestBase:111 - loading config.properties
+2019-09-28 12:06:10 INFO  TestBase:116 - loading or.properties
+2019-09-28 12:06:18 INFO  WaitHelper:31 - 20
+2019-09-28 12:06:18 INFO  WaitHelper:36 - 240
+2019-09-28 12:06:18 INFO  VerifyLowestFirstPriceFilter:27 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-28 12:06:30 INFO  WaitHelper:60 - element found...WOMEN
+2019-09-28 12:07:45 INFO  TestBase:111 - loading config.properties
+2019-09-28 12:07:45 INFO  TestBase:116 - loading or.properties
+2019-09-28 12:07:53 INFO  WaitHelper:31 - 20
+2019-09-28 12:07:53 INFO  WaitHelper:36 - 240
+2019-09-28 12:07:53 INFO  VerifyLowestFirstPriceFilter:27 - com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter started
+2019-09-28 12:08:07 INFO  WaitHelper:60 - element found...WOMEN
+2019-10-05 15:40:44 INFO  TestBase:111 - loading config.properties
+2019-10-05 15:40:44 INFO  TestBase:116 - loading or.properties
+2019-10-05 15:41:35 INFO  WaitHelper:31 - 20
+2019-10-05 15:41:35 INFO  WaitHelper:36 - 240
+2019-10-05 15:41:35 INFO  ExcelReader:21 - Creating excel object:-C:\Users\Home\workspace\seleniumHybridFrameorkSatheesh/src/main/java/com/seleniumFramework/data/TestData.xlsx
+2019-10-05 15:41:58 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-10-05 16:16:20 INFO  TestBase:111 - loading config.properties
+2019-10-05 16:16:20 INFO  TestBase:116 - loading or.properties
+2019-10-05 16:16:38 INFO  WaitHelper:31 - 20
+2019-10-05 16:16:38 INFO  WaitHelper:36 - 240
+2019-10-05 16:16:38 INFO  ExcelReader:21 - Creating excel object:-C:\Users\Home\workspace\seleniumHybridFrameorkSatheesh/src/main/java/com/seleniumFramework/data/TestData.xlsx
+2019-10-05 16:16:50 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-10-07 13:49:01 INFO  TestBase:111 - loading config.properties
+2019-10-07 13:49:01 INFO  TestBase:116 - loading or.properties
+2019-10-07 13:49:34 INFO  WaitHelper:31 - 20
+2019-10-07 13:49:35 INFO  WaitHelper:36 - 240
+2019-10-07 13:49:35 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-10-07 13:49:47 INFO  WaitHelper:60 - element found...Sign in
+2019-10-07 13:49:47 INFO  LoginPage:56 - clicked on sign in link...
+2019-10-07 13:49:50 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-10-07 13:49:50 INFO  LoginPage:66 - entering password....varshita05
+2019-10-07 13:49:50 INFO  LoginPage:71 - clicking on submit button...
+2019-10-07 13:49:54 INFO  WaitHelper:60 - element found...WOMEN
+2019-10-07 13:49:54 INFO  GenericHelper:55 - element is displayed..[[ChromeDriver: chrome on XP (d6b51b3e7bf7aa2f842d17dc22207e68)] -> xpath: //*[@id='center_column']/p]
+2019-10-07 13:49:54 INFO  LoginTest:29 - login is sucessful
+2019-10-07 13:51:26 INFO  TestBase:111 - loading config.properties
+2019-10-07 13:51:26 INFO  TestBase:116 - loading or.properties
+2019-10-07 13:51:34 INFO  WaitHelper:31 - 20
+2019-10-07 13:51:34 INFO  WaitHelper:36 - 240
+2019-10-07 13:51:34 INFO  LoginTest:20 - com.seleniumFramework.loginPage.LoginTest started
+2019-10-07 13:51:45 INFO  WaitHelper:60 - element found...Sign in
+2019-10-07 13:51:45 INFO  LoginPage:56 - clicked on sign in link...
+2019-10-07 13:51:48 INFO  LoginPage:61 - entering email address....satheeshgollapudi@yahoo.com
+2019-10-07 13:51:48 INFO  LoginPage:66 - entering password....varshita05
+2019-10-07 13:51:48 INFO  LoginPage:71 - clicking on submit button...
+2019-10-07 13:51:50 INFO  WaitHelper:60 - element found...WOMEN
+2019-10-07 13:51:50 INFO  GenericHelper:55 - element is displayed..[[ChromeDriver: chrome on XP (8186b73730d32e0960ace95d60069328)] -> xpath: //*[@id='center_column']/p]
+2019-10-07 13:51:50 INFO  LoginTest:29 - login is sucessful

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25483" started-at="2019-10-07T02:51:26Z" finished-at="2019-10-07T02:51:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25483" started-at="2019-10-07T02:51:26Z" finished-at="2019-10-07T02:51:51Z">
+      <class name="com.seleniumFramework.loginPage.LoginTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.seleniumFramework.loginPage.LoginTest@35083305]" name="launchBrowser" is-config="true" duration-ms="7809" started-at="2019-10-07T13:51:26Z" finished-at="2019-10-07T13:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.seleniumFramework.loginPage.LoginTest@35083305]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2019-10-07T13:51:34Z" finished-at="2019-10-07T13:51:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.seleniumFramework.loginPage.LoginTest.testLoginToApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:com.seleniumFramework.loginPage.LoginTest@35083305]" name="testLoginToApplication" duration-ms="16745" started-at="2019-10-07T13:51:34Z" finished-at="2019-10-07T13:51:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.seleniumFramework.loginPage.LoginTest@35083305]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-10-07T13:51:50Z" finished-at="2019-10-07T13:51:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri:0, instance:com.seleniumFramework.loginPage.LoginTest@35083305] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.seleniumFramework.loginPage.LoginTest@35083305]" name="endTest" is-config="true" duration-ms="892" started-at="2019-10-07T13:51:50Z" finished-at="2019-10-07T13:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.seleniumFramework.loginPage.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
