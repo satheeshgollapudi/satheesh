@@ -24,6 +24,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 
@@ -56,7 +57,7 @@ public class TestBase {
 			extent = new ExtentReports(System.getProperty("user.dir") + "/src/main/java/com/hybridFramework/report/test" + formater.format(calendar.getTime()) + ".html", false);
 		}
 		
-		@BeforeTest
+		@BeforeClass
 		public void launchBrowser(){
 			try {
 				loadPropertiesFile();
@@ -176,7 +177,7 @@ public class TestBase {
 	
 	@AfterClass(alwaysRun = true)
 	public void endTest() {
-		//driver.quit();
+		driver.quit();
 		extent.endTest(test);
 		extent.flush();
 	}

@@ -3,7 +3,8 @@
   <test name="Test">
     <classes>
         <class name="com.seleniumFramework.loginPage.LoginTest"/>
-     
+          <!--  -->class name="com.seleniumFramework.productDetailsPage.VerifyLowestFirstPriceFilter"/>
+           <class name="com.seleniumFramework.productDetailsPage.VerifyProductCounts"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

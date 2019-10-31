@@ -36,12 +36,13 @@ private final Logger log = LoggerHelper.getLogger(VerifyLowestFirstPriceFilter.c
 	//mouseover.mouseOver1(homepage.womenMenu);
 	mouseover.mouseOver("Women");
 		// select price filter
-		/*pcategoryPage.selectSortByFilter("Price: Lowest first");
+
+	ProductCategoryPage.selectSortByFilter("Price: Lowest first");
 		
 		// wait for some time to make sure price is sorted.
 		Thread.sleep(8000);
 		
-		List<WebElement> price = pcategoryPage.getAllProductsPrice();
+		List<WebElement> price = ProductCategoryPage.getAllProductsPrice();
 		
 		ArrayList<Integer> array = new ArrayList<Integer>();
 		
@@ -72,7 +73,7 @@ private final Logger log = LoggerHelper.getLogger(VerifyLowestFirstPriceFilter.c
 			} else {
 				Assert.assertTrue(false,"price filter is not working");
 			}
-		}*/
+		}
 	}
 
 }

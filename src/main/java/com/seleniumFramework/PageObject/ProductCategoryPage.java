@@ -21,7 +21,7 @@ import com.seleniumFramework.testBase.TestBase;
 
 public class ProductCategoryPage {
 
-	WebDriver driver;
+	static WebDriver driver;
 	private final Logger log = LoggerHelper.getLogger(ProductCategoryPage.class);
 	WaitHelper waitHelper;
 	
@@ -45,9 +45,11 @@ public class ProductCategoryPage {
 	List<WebElement> totalProducts;
 	
 	@FindBy(xpath="//*[@id='selectProductSort']")
-	public WebElement sortBy;
+	public static WebElement sortBy;
 	
 	@FindBy(xpath="//*[@id='center_column']/ul/li/div/div[2]/div/span[1]")
+	static
+
 	List<WebElement> allpriceElements;
 	
 	
@@ -133,11 +135,11 @@ public class ProductCategoryPage {
 		return totalProducts.size();
 	}
 	
-	public List<WebElement> getAllProductsPrice(){
+	public static List<WebElement> getAllProductsPrice(){
 		return allpriceElements;
 	}
 	
-	public void selectSortByFilter(String dataToSelect){
+	public static void selectSortByFilter(String dataToSelect){
 		DropDownHelper dropdown = new DropDownHelper(driver);
 		dropdown.SelectUsingVisibleText(sortBy, dataToSelect);
 	}
